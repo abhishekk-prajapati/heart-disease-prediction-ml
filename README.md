@@ -39,5 +39,6 @@ The project underwent rigorous testing to ensure prediction reliability.
 * **Automated Reports:** Test execution results are captured in `test_report.txt`.
 
 ## Contact-akprajapati71004@gmail.com
+## linked in-
 **Abhishek Prajapati**
 *Member, GDG AI Team*
