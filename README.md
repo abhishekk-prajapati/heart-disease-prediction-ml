@@ -38,6 +38,6 @@ The project underwent rigorous testing to ensure prediction reliability.
 * **Accuracy:** The model achieves a performance rate significantly above random baseline on clinical test data.
 * **Automated Reports:** Test execution results are captured in `test_report.txt`.
 
-## Contact
+## Contact-akprajapati71004@gmail.com
 **Abhishek Prajapati**
 *Member, GDG AI Team*
